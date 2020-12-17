@@ -21,7 +21,7 @@ function pageLoad(){
 // 3. Backthick alkalmazásra figyelni: let a = `This is a
 //                                              multiline ${c} text.`;
 
-
+// Hf: kitölteni és Highlits oldalra felrakni
   let rootE = document.getElementById("root");
   let notes = [];
   notes.push({
